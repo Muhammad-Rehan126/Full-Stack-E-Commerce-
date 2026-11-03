@@ -5,8 +5,7 @@ import {
 } from 'react-icons/fi';
 import { FaTwitter, FaFacebookF, FaInstagram, FaGithub, FaStar } from 'react-icons/fa';
 import heroImage from '../assets/img-33.png';
-import NewsletterBanner from './NewsletterBanner';
-
+import NewsletterBanner from './Newsletterbanner';
 // Import all product images
 import img1 from '../assets/img-1.png';
 import img2 from '../assets/img-2.png';
